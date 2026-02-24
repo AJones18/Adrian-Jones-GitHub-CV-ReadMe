@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Adrian Adam Jones
 🔧 A results-driven IT professional with years of experience as 
-**Data Analyst**
-**Data Visualization Specialist**
+**Data Analyst,**
+**Data Visualization Specialist,**
 **Observability Tools Developer**, 
 **Python Champion in backend Data manipulation/reporting using Pandas/numpy/MatPlotlib/sci-fit** and 
 **multi-cloud AWS/Azure/GCP Practitioner**.
